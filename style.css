@@ -1,0 +1,91 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0 10%;
+}
+
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+h1{
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.container{
+    border: 2px solid #A9A9A9;
+    padding: 10px;
+    margin:10px auto;
+}
+
+.color-container{
+    width: 100%;
+}
+
+.turquoise{
+    background-color: #40E0D0;
+    color: #fff;
+}
+
+.Mmedium-violetRed{
+    background-color: #C71585;
+    color: #fff;
+}
+
+.slate-blue{
+    background-color: #6A5ACD;
+    color: #fff;
+}
+
+.medium-seaGreen{
+    background-color: #3CB371;
+}
+
+.color-panel{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+p{
+display: block;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+unicode-bidi: isolate;
+}
+.font-panel{
+    width: 45%;
+    display: inline-block;
+}
+
+.source-code-pro{
+    font-family: 'source-code-pro', monospace;
+}
+.font-label{
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.ragular{
+    font-style: normal;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.text-panel h1{
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Nunito Sans', sans-serif;
+}
